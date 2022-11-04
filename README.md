@@ -1,2 +1,2 @@
-# web-tasar-m-hafta-4
+# web-tasarim-hafta-
 ....
